@@ -1,0 +1,2 @@
+Aquest projecte, es del mòdul base de dades, i tindra com objectiu crear una APP que doni suport a l'àrea comercial.
+El sistema es desenvoluparà amb Angular.
