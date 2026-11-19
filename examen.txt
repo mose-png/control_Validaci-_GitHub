@@ -1,4 +1,4 @@
-Santiago
-Pau
-Pol
-Eric
+Santiago: 18, DAM, sense profesio
+Pau: 18, DAM, sense profesio
+Pol: 18, DAM, desconegut
+Eric: 18, DAM, sense professio
