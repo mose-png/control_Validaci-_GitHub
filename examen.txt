@@ -1,4 +1,4 @@
-Santiago: 18, DAM, sense profesio
-Pau: 18, DAM, sense profesio
-Pol: 18, DAM, desconegut
-Eric: 18, DAM, sense professio
+Santiago: 18, DAM, sense profesio. Programador full-stack d'una web de quiz
+Pau: 18, DAM, sense profesio. Agent 1 del projecte halloweb
+Pol: 18, DAM, desconegut. Encargat de actualitzar les versions al github
+Eric: 18, DAM, sense professio. Halloween projecte 
